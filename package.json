@@ -1,0 +1,15 @@
+{
+  "name": "jahrulin",
+  "version": "1.0.0",
+  "description": "css library",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass styles.scss dist/styles.css",
+    "watch": "sass --watch styles.scss:dist/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.83.0"
+  }
+}

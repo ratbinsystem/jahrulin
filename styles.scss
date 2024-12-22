@@ -1,0 +1,6 @@
+@use './src/variables';
+
+body {
+  font: 100% variables.$font-stack;
+  color: variables.$primary-color;
+}
