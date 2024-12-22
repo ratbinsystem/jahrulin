@@ -7,6 +7,7 @@
     "build": "sass styles.scss dist/styles.css",
     "watch": "sass --watch styles.scss:dist/styles.css"
   },
+  "repository": { "type": "git", "url": "https://github.com/ratbinsystem/jahrulin.git" },
   "author": "",
   "license": "ISC",
   "devDependencies": {
