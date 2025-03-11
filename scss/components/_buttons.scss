@@ -1,0 +1,11 @@
+.button {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: var(--spacing-unit);
+    border: none;
+    border-radius: 4px;
+
+    &:hover {
+        background-color: var(--secondary-color);
+    }
+}

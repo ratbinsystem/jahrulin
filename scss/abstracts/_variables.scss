@@ -1,0 +1,13 @@
+// Sass Variables
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$font-stack: 'Helvetica, Arial, sans-serif';
+$spacing-unit: 1rem;
+
+// Map Sass Variables to Custom Properties
+:root {
+  --primary-color: #{$primary-color};
+  --secondary-color: #{$secondary-color};
+  --font-stack: #{$font-stack};
+  --spacing-unit: #{$spacing-unit};
+}
